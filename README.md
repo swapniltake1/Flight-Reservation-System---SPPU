@@ -1,7 +1,3 @@
-Absolutely, Swapnil 👨‍💻 — here’s a **professional and well-structured GitHub README.md** file for your *Flight Reservation System (Java DSA Mini Project)*.
-It’s written in clean Markdown, following **developer and academic repository best practices** — perfect for showcasing on GitHub and linking in your portfolio or resume.
-
----
 
 ````markdown
 # ✈️ Flight Reservation System (Java DSA Mini Project)
