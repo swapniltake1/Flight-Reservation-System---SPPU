@@ -111,7 +111,7 @@ FlightReservationSystem/
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/<your-username>/FlightReservationSystem.git
+   git clone https://github.com/<swapniltake1>/Flight-Reservation-System---SPPU.git
    ```
 2. Open the project in your IDE (IntelliJ, Eclipse, or VS Code).
 3. Compile and run the program:
